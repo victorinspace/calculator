@@ -9,4 +9,10 @@ $(function() {
 		$('.calculator__display').text(add)
 	})
 
+	$('#four').on('click', function() {
+		
+		$('#num_input').val('#four')	
+	})
+	
+
 })
