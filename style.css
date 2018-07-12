@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+
+}
+
+#container {
+	width: 240px;
+	height: 300px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#num_input {
+	width: 180px;
+	background: #65b357;
+	border: 1px solid #7abd6d;
+}
+
+.btn {
+	width: 60px;
+	height: 60px;
+	border: 1px solid #7abd6d;
+	background: #65b357;
+	color: #fcfefc;
+}
+
+.operator {
+	background: #83c178;
+	color: #44623c;
+}
+
