@@ -18,6 +18,11 @@ body {
 	width: 180px;
 	background: #65b357;
 	border: 1px solid #7abd6d;
+	cursor: default;
+	padding: 0 15px;
+	font-size: 18px;
+	color: #dbdbdb;
+	font-style: italic;
 }
 
 .btn {
@@ -28,6 +33,7 @@ body {
 	color: #fcfefc;
 	text-align: center;
 	line-height: 60px;
+	cursor: pointer;
 }
 
 .operator {
